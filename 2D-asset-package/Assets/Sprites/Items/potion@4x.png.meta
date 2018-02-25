@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: 33432b5dc4452ae43acf928d46e5341a
+timeCreated: 1517171595
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: potion@4x_0
+    21300002: potion@4x_1
+    21300004: potion@4x_2
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 1056, w: 0}
+  spritePixelsToUnits: 750
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: potion@4x_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12
+        width: 298
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potion@4x_1
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 0
+        width: 298
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potion@4x_2
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 0
+        width: 299
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline:
+    - - {x: 73, y: 136.5}
+      - {x: 70, y: 137.5}
+      - {x: 62, y: 141.5}
+      - {x: 62, y: 140.5}
+      - {x: 63, y: 141.5}
+      - {x: 64, y: 140.5}
+      - {x: 81, y: 133.5}
+      - {x: 94, y: 131.5}
+      - {x: 97, y: 139.5}
+      - {x: 102, y: 185.5}
+      - {x: 83, y: 239.5}
+      - {x: 48, y: 253.5}
+      - {x: -3, y: 253.5}
+      - {x: -7, y: 214.5}
+      - {x: -7, y: 210.5}
+      - {x: -34, y: 237.5}
+      - {x: -48, y: 231.5}
+      - {x: -45, y: 227.5}
+      - {x: -33, y: 185.5}
+      - {x: -73, y: 156.5}
+      - {x: -129, y: -44.5}
+      - {x: -129, y: -149.5}
+      - {x: -128, y: -155.5}
+      - {x: -108, y: -253.5}
+      - {x: 158, y: -253.5}
+      - {x: 173, y: -201.5}
+      - {x: 173, y: -34.5}
+      - {x: 91, y: 124.5}
+    - - {x: 481, y: 220.5}
+      - {x: 432, y: 200.5}
+      - {x: 382, y: 0.5}
+      - {x: 382, y: -163.5}
+      - {x: 415, y: -253.5}
+      - {x: 630, y: -253.5}
+      - {x: 683, y: -187.5}
+      - {x: 683, y: -25.5}
+      - {x: 592, y: 220.5}
+    - - {x: -481, y: 229.5}
+      - {x: -604, y: 229.5}
+      - {x: -683, y: 40.5}
+      - {x: -683, y: -177.5}
+      - {x: -650, y: -243.5}
+      - {x: -420, y: -243.5}
+      - {x: -383, y: -165.5}
+      - {x: -383, y: 29.5}
+      - {x: -453, y: 213.5}
+    - - {x: 512, y: 151.5}
+      - {x: 513, y: 146.5}
+      - {x: 504, y: 144.5}
+      - {x: 505, y: 144.5}
+    - - {x: 544, y: 148.5}
+      - {x: 543, y: 148.5}
+      - {x: 546, y: 145.5}
+      - {x: 544, y: 146.5}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
